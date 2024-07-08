@@ -1,7 +1,7 @@
 # sanskrit-kagapa-windows
 Sanskrit KaGaPa phonetic keyboard for windows. Devanagari script, KaGaPa phonetic as used by Ubuntu native.
 
-![alt Layout](https://raw.githubusercontent.com/srix55/Tattwa-Vaada/master/For%20Contributors/Sanskrit%20Keyboard%20Layout/Sanskrit%20Keyboard.png)
+![alt_layout](https://github.com/srix55/Tattwa-Vaada/blob/master/For%20Contributors/Sanskrit%20Keyboard%20Layout/Sanskrit%20Keyboard.png)
 
 ### How to install
 - Add Sanskrit language in Windows' Languages, if not already added
