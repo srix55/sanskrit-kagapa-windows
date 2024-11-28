@@ -8,9 +8,15 @@ Sanskrit KaGaPa phonetic keyboard for windows. Devanagari script, KaGaPa phoneti
 - Download the 'sakagapa' folder and run the setup file.
 - Restart windows and you will see the SaKaGaPa keyboard under the Sanskrit language keyboard section in Windows settings
 
-### Usage Example
+### Usage Examples
 - कपोतः - k, p, [shift] o, t, [shift]h
 - एवम् - [right-alt][shift] e, v, m, f
+- कालिदासः - k, a, l, i, d, a, s, [shift]h
+- परमेश्वरः - p, r, m, [shift]e, [shift]s, f, v, r, [shift]h
+- कक्षा - k, k, f, x, a
+
+![example_u](example_u.png)
+![example_i](example_i.png)
 
 ### How to alter the layout
 - Install [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
